@@ -10,12 +10,14 @@ Feature   | Working or not/not tested
 Boots into UI | Yes
 Touchscreen | Yes
 WiFi | Yes
+Mobile Hotspot | Yes
 Manual Brightness | Yes
 Battery Percentage | Yes
 Charging | Yes
 Off-mode Charging | Yes
 Airplane Mode | Yes
 Power Option Execution | Yes
+Bluetooth | No
 Camera | No
 MTP | No
 ADB | No
@@ -25,8 +27,6 @@ Vibration | No
 Torch | Not Completely
 Mobile Data | Not Sure
 Battery Life | Not Sure
-Mobile Hotspot | Not Sure
-Anbox Kernel Patches | Not Yet
 Proximity Sensor | Not Sure
 GPS | Not Sure
 Carrier Info | Not Sure
@@ -35,6 +35,7 @@ MMS | Not Sure
 Network PIN Unlock | Not Sure
 SMS | Not Sure
 Voice in Calls | Not Sure
+Anbox Kernel Patches | Not Yet
 
 ## Device Image
 
