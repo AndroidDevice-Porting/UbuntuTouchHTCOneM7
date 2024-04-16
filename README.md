@@ -24,8 +24,8 @@ ADB | No
 Screen Rotation | No
 Sound | No
 Vibration | No
+Mobile Data | No
 Torch | Partially
-Mobile Data | Not Sure
 Battery Life | Not Sure
 Proximity Sensor | Not Sure
 GPS | Not Sure
